@@ -43,7 +43,7 @@ void dequeue(){
 }
 
 void display(){
-    int i;
+    // int i;
     if (rear== -1 && front == -1)
     {
         printf("underflow\n");
